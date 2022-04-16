@@ -1,6 +1,6 @@
 <div align="center" border-radius= 50%>
 
-![avatar](https://github.com/iamevs/images/blob/main/monkey_1.png?raw=true)
+<!-- ![avatar](https://github.com/iamevs/images/blob/main/monkey_1.png?raw=true) -->
 
 </div>
 
