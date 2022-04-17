@@ -26,14 +26,14 @@ Intrested in Everything , Happly Waiting  to collabrate with u all.
 <div>
   
   
-  <a href="http://iamevs.gtihub.io">
+  <a href="http://iamevs.gtihub.io" target="_blank">
   
   ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
   
   </a>
   
   
-<a href="https://www.instagram.com/i_am_evs">
+<a href="https://www.instagram.com/i_am_evs" target="_blank">
 
 ![Instagram](https://img.shields.io/badge/i_am_evs-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
@@ -41,13 +41,13 @@ Intrested in Everything , Happly Waiting  to collabrate with u all.
   
 
 
-<a href="https://t.me/eavbsi">
+<a href="https://t.me/eavbsi" target="_blank">
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 </a>
 
-<a href="mailto:iamevs143@gmail.com">
+<a href="mailto:iamevs143@gmail.com" target="_blank">
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
