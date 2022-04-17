@@ -26,7 +26,7 @@ Intrested in Everything , Happly Waiting  to collabrate with u all.
 <div>
   
   
-  <a href="http://iamevs.gtihub.io" target="_blank">
+  <a href="http://iamevs.github.io" target="_blank">
   
   ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
   
