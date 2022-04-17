@@ -20,7 +20,7 @@ Intrested in Everything , Happly Waiting  to collabrate with u all.
 - 👋 I’m Vijayasenthil E 
 - 👀 I’m interested in Designing and logic based problems and projects
 - 🌱 I’m currently learning full stack development 
-- 💬 Known Languages : Python Basics,C/C++,HTML,CSS,Arduinio IDE.
+- 💬 Known Languages : Python Basics,C/C++,HTML,CSS,Java script,Arduinio IDE.
 - 📫 How to reach me :-<br><br>
 
 <div>
