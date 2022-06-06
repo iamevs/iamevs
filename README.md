@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Hi, I'm _EVS_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi, I'm _EVS_ 🖐️
 
 <h2>
 Intrested in Everything , Happly Waiting  to collabrate with u all.
