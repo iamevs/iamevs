@@ -9,7 +9,7 @@
 # Hi, I'm _EVS_ 🖐️
 
 <h2>
-Intrested in Everything , Happly Waiting  to collabrate with u all.
+Intrested in Everything , Happily Waiting  to collabrate with u all.
 <br>
 </h2>
 
