@@ -79,6 +79,18 @@ Intrested in Everything , Happily Waiting  to collabrate with u all.
 
  <br><hr>
  
+  
+  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamevs" alt="iamevs" /></a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamevs&show_icons=true&locale=en&layout=compact" alt="iamevs" /></p><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamevs&show_icons=true&locale=en" alt="iamevs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamevs&" alt="iamevs" /></p>
+
+ <hr>
+  
   <h3> Other Social Platforms </h3>
   
 <a href="https://www.instagram.com/i_am_evs" target="_blank">
@@ -98,10 +110,8 @@ Intrested in Everything , Happily Waiting  to collabrate with u all.
 
 </div>
 
-<div align="right">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamevs&label=Profile%20views&color=0e75b6&style=flat" alt="iamevs" /> </p>
 
-<img src="https://komarev.com/ghpvc/?username=iamevs"/>
 
-</div>
 
 
