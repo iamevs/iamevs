@@ -11,7 +11,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on **Landing Site on React Framework, My Portfolio site**
+- 🔭 I’m currently working on **Landing Site on React Library, My Portfolio site**
 
 - 🌱 I’m currently learning **React Native, Electron Js**
 
