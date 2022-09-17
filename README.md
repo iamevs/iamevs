@@ -1,117 +1,102 @@
-<div align="center" border-radius= 50%>
-
-<!-- ![avatar](https://github.com/iamevs/images/blob/main/monkey_1.png?raw=true) -->
-
+<div align="center"> 
+  
+  <img src="avatar_evs.png" width="300px">
+  
 </div>
+
+
+<h1 align="center">Hi 👋, I'm Vijayasenthil E</h1>
+
+<h3 align="center">A passionate Full Stack Web-Devloper</h3>
+
+<hr>
+
+- 🔭 I’m currently working on **Landing Site on React Framework, My Portfolio site**
+
+- 🌱 I’m currently learning **React Native, Electron Js**
+
+- 👯 I’m looking to collaborate with **projects related with Web-Dev**
+
+- 💬 Ask me about **UI, Front-End dev, Web Dev, Cross platform app dev, Browser Extension Dev.**
+
+- 📫 How to reach me **iamevs143@gmail.com**
+
+- ⚡ Fun fact **good @ Meme creation**
+
+<hr>
+
+## Languages/Tools
+
+<div>
+  
+   ### Programming Languages
+    
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+  
+   ### Frontend Development
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)    	![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
+  ### Backend Development
+  
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  	![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+  
+  ### AI/ML
+  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+  
+  ### Database
+  
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+  
+  ### Data Visualization
+  
+  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)  ![d3.js](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+  
+  ### Devops
+  
+  ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  
+  
+  ### BaaS (Backend as a Service)
+  
+  ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+  
+  ### Framework
+  
+  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+  
+  
+  ### Software
+  
+  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)  
+  
+</div>
+
+
+## Status
 
 <div align="center">
-
-# Hi, I'm _EVS_ 🖐️
-
-<h2>
-Intrested in Everything , Happily Waiting  to collabrate with u all.
-<br>
-</h2>
-
+  
+  [![iamevs's github stats](https://github-readme-stats.vercel.app/api?username=iamevs&show_icons=true&theme=github_dark)](https://github.com/iamevs?tab=repositories)
+  ![iamevs's Streak](http://github-readme-streak-stats.herokuapp.com?user=iamevs&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
+  
+  ![iamevs's Trophies](https://github-profile-trophy.vercel.app/?username=iamevs&rank=-B&column=-1&no-frame=true&margin-w=10)
+  
+  ![iamevs's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamevs&theme=github_dark)
+    
 </div>
 
-<!--![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=iamevs&show_icons=true)-->
-<h3>
-  
-- 👋 I’m Vijayasenthil E 
-- 📖 Currently Learning Full-Stack 
-
- </h3>
-  
-<hr>
-
-<div>
-  
-<h3>
- Known Languages
-</h3>
-  
-  <h4> Front-End </h4>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)    ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   
-  
-<h4> Back-End </h4>  
-  
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)   ![MySql](https://img.shields.io/badge/MySQL-563D7C?style=for-the-badge&logo=mysql&logoColor=white)  ![Sqllite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-  
-  <h4>DevOps</h4>
-  
-  ![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  
-  <h4>Libraries</h4>
-  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Taillwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)   ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-  
-  <h4>V-DOM</h4>
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)   ![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-
- 
-</div>
-
-<!-- <div align="center">
-
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=iamevs&show_icons=true)
-
-</div> -->
-
-<div>
-  
-<hr>
-  
-<div>
-  
-  <h3> Main Projects </h3>
-  
-  
-  <a href="http://iamevs.github.io" target="_blank">
-  
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-  
-  </a>
-  
-</div>
-
- <br><hr>
- 
-  
-  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamevs" alt="iamevs" /></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamevs&show_icons=true&locale=en&layout=compact" alt="iamevs" /></p><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamevs&show_icons=true&locale=en" alt="iamevs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamevs&" alt="iamevs" /></p>
-
- <hr>
-  
-  <h3> Other Social Platforms </h3>
-  
-<a href="https://www.instagram.com/i_am_evs" target="_blank">
-
-![Instagram](https://img.shields.io/badge/i_am_evs-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-</a>   <a href="https://www.codepen.io/iamevs" teerget="_blank">
-  
-![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-  
-</a>   <a href="mailto:iamevs143@gmail.com" target="_blank">
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-</a>
-
-
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamevs&label=Profile%20views&color=0e75b6&style=flat" alt="iamevs" /> </p>
 
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/iamevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iamevs" height="30" width="40" /></a>
+<a href="https://twitter.com/i_am_evs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_evs_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamevs" height="30" width="40" /></a>
+<a href="https://instagram.com/i_am_evs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_evs" height="30" width="40" /></a>
+</p>
 
+
+<br><p align="right"> <img src="https://komarev.com/ghpvc/?username=iamevs&label=Profile%20views&color=0e75b6&style=flat" alt="iamevs" /> </p>
