@@ -1,11 +1,9 @@
-<div align="center"> 
+
+<div align="center">
   
-  <img src="avatar_evs.png" width="300px">
+#  Hi, I'm _Vijayasethil_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   
 </div>
-
-
-<h1 align="center">Hi 👋, I'm Vijayasenthil E</h1>
 
 <h3 align="center">A passionate Full Stack Web-Devloper</h3>
 
