@@ -9,7 +9,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on **Landing Site on Svelte, My Portfolio site**
+- 🔭 I’m currently working on **Landing Site on Astro, My Portfolio site**
 
 - 🌱 I’m currently learning **React Native, Electron Js**
 
@@ -85,12 +85,18 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/iamevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iamevs" height="30" width="40" /></a>
-<a href="https://twitter.com/i_am_evs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_evs_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamevs" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_evs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_evs" height="30" width="40" /></a>
+<a href="https://codepen.io/iamevs" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a><br>
+
+
+<a href="https://twitter.com/i_am_evs_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a><br>
+
+
+<a href="https://linkedin.com/in/iamevs" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
+
+
+<a href="https://instagram.com/i_am_evs" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 
