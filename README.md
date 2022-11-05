@@ -73,8 +73,7 @@
 
 <div align="center">
   
-<!--   [![iamevs's github stats](https://github-readme-stats.vercel.app/api?username=iamevs&show_icons=true&theme=github_dark)](https://github.com/iamevs?tab=repositories) -->
-  
+   [![iamevs's github stats](https://github-readme-stats.vercel.app/api?username=iamevs&show_icons=true&theme=github_dark)](https://github.com/iamevs?tab=repositories)  
   ![iamevs's Streak](http://github-readme-streak-stats.herokuapp.com?user=iamevs&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
   
   ![iamevs's Trophies](https://github-profile-trophy.vercel.app/?username=iamevs&rank=-B&column=-1&no-frame=true&margin-w=10)
