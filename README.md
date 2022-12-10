@@ -69,7 +69,7 @@
 </div>
 
 
-## Status
+<!-- ## Status
 
 <div align="center">
   
@@ -80,7 +80,7 @@
   
   ![iamevs's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamevs&theme=github_dark)
     
-</div>
+</div> -->
 
 
 
