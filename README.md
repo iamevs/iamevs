@@ -9,7 +9,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on **Landing Site on Astro, My Portfolio site**
+- 🔭 I’m currently working on **My Portfolio site**
 
 - 🌱 I’m currently learning **React Native, Electron Js**
 
