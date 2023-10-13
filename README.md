@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **My Portfolio site**
 
-- 🌱 I’m currently learning **React Native, Electron Js**
+- 🌱 I’m currently learning **Neural Networks, Data Science**
 
 - 👯 I’m looking to collaborate with **projects related with Web-Dev**
 
