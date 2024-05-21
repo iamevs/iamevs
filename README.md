@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **UI, Front-End dev, Web Dev, Cross platform app dev, Browser Extension Dev.**
 
-- 📫 How to reach me **iamevs143@gmail.com**
+- 📫 How to reach me **e.vijayasenthil@gmail.com**
 
 - ⚡ Fun fact **good @ Meme creation**
 
