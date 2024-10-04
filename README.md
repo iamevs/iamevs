@@ -9,11 +9,11 @@
 
 <hr>
 
-- 🔭 I’m currently working on **My Portfolio site**
+- 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **Neural Networks, Data Science**
+- 🌱 I’m currently learning **Neural Networks, Machine Learning**
 
-- 👯 I’m looking to collaborate with **projects related with Web-Dev**
+- 👯 I’m looking to collaborate with **projects related with Web and app**
 
 - 💬 Ask me about **UI, Front-End dev, Web Dev, Cross platform app dev, Browser Extension Dev.**
 
