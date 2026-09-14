@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- THIS FILE IS GENERATED. DO NOT EDIT MANUALLY. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="228" viewBox="0 0 880 228" role="img" aria-label="Twelve-month activity signal" style="background:transparent">
+<rect x="0.5" y="0.5" width="879" height="227" fill="none" stroke="#2a2a28" />
+<text x="36" y="38" fill="#8c877d" font-size="11" font-weight="500" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start" letter-spacing="2.4">SIGNAL / 12 MONTHS</text>
+<polyline fill="none" stroke="#b9a48a" stroke-width="1.4" points="36.0,112.0 74.2,112.0 112.4,112.0 150.5,112.0 188.7,112.0 226.9,112.0 265.1,112.0 303.3,112.0 341.5,112.0 379.6,112.0 417.8,98.5 456.0,58.0" />
+<circle cx="36.0" cy="112.0" r="1.6" fill="#ece8e1" />
+<circle cx="74.2" cy="112.0" r="1.6" fill="#ece8e1" />
+<circle cx="112.4" cy="112.0" r="1.6" fill="#ece8e1" />
+<circle cx="150.5" cy="112.0" r="1.6" fill="#ece8e1" />
+<circle cx="188.7" cy="112.0" r="1.6" fill="#ece8e1" />
+<circle cx="226.9" cy="112.0" r="1.6" fill="#ece8e1" />
+<circle cx="265.1" cy="112.0" r="1.6" fill="#ece8e1" />
+<circle cx="303.3" cy="112.0" r="1.6" fill="#ece8e1" />
+<circle cx="341.5" cy="112.0" r="1.6" fill="#ece8e1" />
+<circle cx="379.6" cy="112.0" r="1.6" fill="#ece8e1" />
+<circle cx="417.8" cy="98.5" r="1.6" fill="#ece8e1" />
+<circle cx="456.0" cy="58.0" r="1.6" fill="#ece8e1" />
+<rect x="490" y="62" width="18" height="18" fill="#ece8e1" fill-opacity="0.08" />
+<rect x="514" y="62" width="18" height="18" fill="#ece8e1" fill-opacity="0.08" />
+<rect x="538" y="62" width="18" height="18" fill="#ece8e1" fill-opacity="0.08" />
+<rect x="562" y="62" width="18" height="18" fill="#ece8e1" fill-opacity="0.08" />
+<rect x="586" y="62" width="18" height="18" fill="#ece8e1" fill-opacity="0.08" />
+<rect x="610" y="62" width="18" height="18" fill="#ece8e1" fill-opacity="0.08" />
+<rect x="634" y="62" width="18" height="18" fill="#ece8e1" fill-opacity="0.08" />
+<rect x="658" y="62" width="18" height="18" fill="#ece8e1" fill-opacity="0.08" />
+<rect x="682" y="62" width="18" height="18" fill="#ece8e1" fill-opacity="0.08" />
+<rect x="706" y="62" width="18" height="18" fill="#ece8e1" fill-opacity="0.08" />
+<rect x="730" y="62" width="18" height="18" fill="#ece8e1" fill-opacity="0.2" />
+<rect x="754" y="62" width="18" height="18" fill="#ece8e1" fill-opacity="0.92" />
+<text x="36" y="168" fill="#5c584f" font-size="10" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start" letter-spacing="1.4">COMMITS</text>
+<text x="36" y="196" fill="#ece8e1" font-size="22" font-weight="500" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">N/A</text>
+<text x="246" y="168" fill="#5c584f" font-size="10" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start" letter-spacing="1.4">REPOSITORIES</text>
+<text x="246" y="196" fill="#ece8e1" font-size="22" font-weight="500" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">32</text>
+<text x="456" y="168" fill="#5c584f" font-size="10" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start" letter-spacing="1.4">RELEASES</text>
+<text x="456" y="196" fill="#ece8e1" font-size="22" font-weight="500" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">N/A</text>
+<text x="666" y="168" fill="#5c584f" font-size="10" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start" letter-spacing="1.4">EXPERIMENTS</text>
+<text x="666" y="196" fill="#ece8e1" font-size="22" font-weight="500" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">2</text>
+</svg>
