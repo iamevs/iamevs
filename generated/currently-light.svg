@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- THIS FILE IS GENERATED. DO NOT EDIT MANUALLY. -->
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="214" viewBox="0 0 880 214" role="img" aria-label="Currently active: building BizDock">
-<rect x="0" y="0" width="880" height="214" fill="#f3f0e8" />
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="214" viewBox="0 0 880 214" role="img" aria-label="Currently active: building BizDock" style="background:transparent">
 <rect x="0.5" y="0.5" width="879" height="213" fill="none" stroke="#d8d1c4" />
 <text x="36" y="38" fill="#6f6a60" font-size="11" font-weight="500" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start" letter-spacing="2.4">CURRENTLY</text>
 <text x="36" y="78" fill="#9a9488" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">Building</text>

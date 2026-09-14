@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- THIS FILE IS GENERATED. DO NOT EDIT MANUALLY. -->
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="244" viewBox="0 0 880 244" role="img" aria-label="EVS laboratory experiments">
-<rect x="0" y="0" width="880" height="244" fill="#0b0b0b" />
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="244" viewBox="0 0 880 244" role="img" aria-label="EVS laboratory experiments" style="background:transparent">
 <rect x="0.5" y="0.5" width="879" height="243" fill="none" stroke="#2a2a28" />
 <text x="36" y="38" fill="#8c877d" font-size="11" font-weight="500" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start" letter-spacing="2.4">EVS / LAB</text>
 <text x="36" y="58" fill="#5c584f" font-size="12" font-weight="400" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">Experiments that may become products.</text>

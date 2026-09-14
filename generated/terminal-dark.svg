@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- THIS FILE IS GENERATED. DO NOT EDIT MANUALLY. -->
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="396" viewBox="0 0 880 396" role="img" aria-label="Terminal session for iamevs">
-<rect x="0" y="0" width="880" height="396" fill="#0b0b0b" />
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="396" viewBox="0 0 880 396" role="img" aria-label="Terminal session for iamevs" style="background:transparent">
 <rect x="0.5" y="0.5" width="879" height="395" fill="none" stroke="#2a2a28" />
 <text x="28" y="36" fill="#8c877d" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">┌─ iamevs@github ~</text>
 <text x="28" y="56" fill="#5c584f" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│</text>

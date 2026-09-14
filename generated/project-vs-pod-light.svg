@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- THIS FILE IS GENERATED. DO NOT EDIT MANUALLY. -->
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="176" viewBox="0 0 880 176" role="img" aria-label="vs-pod: Internal system. Unpublished.">
-<rect x="0" y="0" width="880" height="176" fill="#f3f0e8" />
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="176" viewBox="0 0 880 176" role="img" aria-label="vs-pod: Internal system. Unpublished." style="background:transparent">
 <rect x="0.5" y="0.5" width="879" height="175" fill="none" stroke="#d8d1c4" />
 <text x="28" y="36" fill="#6f6a60" font-size="11" font-weight="500" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start" letter-spacing="2.4">VS-POD</text>
 <text x="852" y="36" fill="#9a9488" font-size="11" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="end" letter-spacing="1.4">PRIVATE</text>
