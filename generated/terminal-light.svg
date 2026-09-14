@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- THIS FILE IS GENERATED. DO NOT EDIT MANUALLY. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="396" viewBox="0 0 880 396" role="img" aria-label="Terminal session for iamevs">
+<rect x="0" y="0" width="880" height="396" fill="#f3f0e8" />
+<rect x="0.5" y="0.5" width="879" height="395" fill="none" stroke="#d8d1c4" />
+<text x="28" y="36" fill="#6f6a60" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">┌─ iamevs@github ~</text>
+<text x="28" y="56" fill="#9a9488" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│</text>
+<text x="28" y="76" fill="#6b5a45" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│ $ whoami</text>
+<text x="28" y="96" fill="#1c1b18" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│ Vijayasenthil E</text>
+<text x="28" y="116" fill="#9a9488" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│</text>
+<text x="28" y="136" fill="#6b5a45" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│ $ ls projects</text>
+<text x="28" y="156" fill="#1c1b18" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│ open-seo</text>
+<text x="28" y="176" fill="#1c1b18" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│ vs-pod</text>
+<text x="28" y="196" fill="#1c1b18" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│ iamevs-site</text>
+<text x="28" y="216" fill="#9a9488" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│</text>
+<text x="28" y="236" fill="#6b5a45" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│ $ cat philosophy.txt</text>
+<text x="28" y="256" fill="#1c1b18" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│ Build quietly.</text>
+<text x="28" y="276" fill="#1c1b18" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│ Own the systems.</text>
+<text x="28" y="296" fill="#1c1b18" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│ Let the work compound.</text>
+<text x="28" y="316" fill="#9a9488" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│</text>
+<text x="28" y="336" fill="#6b5a45" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">│ $</text>
+<text x="28" y="356" fill="#6f6a60" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">└</text>
+</svg>

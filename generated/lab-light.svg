@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- THIS FILE IS GENERATED. DO NOT EDIT MANUALLY. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="244" viewBox="0 0 880 244" role="img" aria-label="EVS laboratory experiments">
+<rect x="0" y="0" width="880" height="244" fill="#f3f0e8" />
+<rect x="0.5" y="0.5" width="879" height="243" fill="none" stroke="#d8d1c4" />
+<text x="36" y="38" fill="#6f6a60" font-size="11" font-weight="500" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start" letter-spacing="2.4">EVS / LAB</text>
+<text x="36" y="58" fill="#9a9488" font-size="12" font-weight="400" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">Experiments that may become products.</text>
+<text x="36" y="82" fill="#9a9488" font-size="12" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">01</text>
+<text x="84" y="82" fill="#1c1b18" font-size="16" font-weight="400" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">evs/delta</text>
+<text x="844" y="82" fill="#9a9488" font-size="11" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="end" letter-spacing="1.2">research</text>
+<text x="84" y="106" fill="#6f6a60" font-size="13" font-weight="400" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">An experimental incremental computation engine for software that changes continuously.</text>
+<line x1="36" y1="144" x2="844" y2="144" stroke="#e6e0d4" stroke-width="1" />
+<text x="36" y="160" fill="#9a9488" font-size="12" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">02</text>
+<text x="84" y="160" fill="#1c1b18" font-size="16" font-weight="400" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">Chess analyzer</text>
+<text x="844" y="160" fill="#9a9488" font-size="11" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="end" letter-spacing="1.2">prototype</text>
+<text x="84" y="184" fill="#6f6a60" font-size="13" font-weight="400" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">A chess analysis tool built to read my own games without borrowing someone else&apos;s</text>
+<text x="84" y="202" fill="#6f6a60" font-size="13" font-weight="400" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">interface.</text>
+
+</svg>

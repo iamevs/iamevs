@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- THIS FILE IS GENERATED. DO NOT EDIT MANUALLY. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="176" viewBox="0 0 880 176" role="img" aria-label="iamevs: Personal site. A studio surface, not a résumé.">
+<rect x="0" y="0" width="880" height="176" fill="#0b0b0b" />
+<rect x="0.5" y="0.5" width="879" height="175" fill="none" stroke="#2a2a28" />
+<text x="28" y="36" fill="#8c877d" font-size="11" font-weight="500" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start" letter-spacing="2.4">IAMEVS</text>
+<text x="852" y="36" fill="#5c584f" font-size="11" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="end" letter-spacing="1.4">ACTIVE</text>
+<text x="28" y="72" fill="#ece8e1" font-size="16" font-weight="400" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">Personal site. A studio surface, not a résumé.</text>
+<text x="28" y="100" fill="#8c877d" font-size="12" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">Astro</text>
+<text x="28" y="128" fill="#ece8e1" font-size="12" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">★ 4</text>
+<text x="110" y="128" fill="#8c877d" font-size="12" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">forks 0</text>
+<text x="230" y="128" fill="#8c877d" font-size="12" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">updated 3y ago</text>
+<line x1="28" y1="144" x2="852" y2="144" stroke="#1d1d1b" stroke-width="1" />
+<text x="28" y="164" fill="#b9a48a" font-size="11" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start" letter-spacing="1.6">VIEW →</text>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- THIS FILE IS GENERATED. DO NOT EDIT MANUALLY. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="214" viewBox="0 0 880 214" role="img" aria-label="Currently active: building BizDock">
+<rect x="0" y="0" width="880" height="214" fill="#0b0b0b" />
+<rect x="0.5" y="0.5" width="879" height="213" fill="none" stroke="#2a2a28" />
+<text x="36" y="38" fill="#8c877d" font-size="11" font-weight="500" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start" letter-spacing="2.4">CURRENTLY</text>
+<text x="36" y="78" fill="#5c584f" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">Building</text>
+<text x="220" y="78" fill="#ece8e1" font-size="13" font-weight="400" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">BizDock</text>
+<text x="36" y="104" fill="#5c584f" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">Exploring</text>
+<text x="220" y="104" fill="#ece8e1" font-size="13" font-weight="400" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">evs/delta</text>
+<text x="36" y="130" fill="#5c584f" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">Experimenting</text>
+<text x="220" y="130" fill="#ece8e1" font-size="13" font-weight="400" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">Systems &amp; algorithms</text>
+<text x="36" y="156" fill="#5c584f" font-size="13" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">Writing</text>
+<text x="220" y="156" fill="#ece8e1" font-size="13" font-weight="400" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="start">Engineering notes</text>
+<circle cx="42" cy="192" r="3.5" fill="#b9a48a" />
+<text x="54" y="196" fill="#b9a48a" font-size="11" font-weight="400" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" text-anchor="start">ACTIVE</text>
+</svg>
